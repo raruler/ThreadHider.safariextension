@@ -1,0 +1,6 @@
+tr.thread.hidden {
+	display: none;
+}
+tr.thread.hidden_disabled div.info a {
+	color: grey !important;
+}
